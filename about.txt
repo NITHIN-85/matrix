@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>About</h1>
+<h2>About Nithin techs</h1>
 <p>wellcome to new programming language services are c,c++,python,java,c#</p>
 </body>
 <html>
