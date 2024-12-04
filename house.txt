@@ -1,6 +1,11 @@
 <html>
 <body>
+<<<<<<< HEAD
 <h1>nithin techs</h1>
 <p>wellcome to new programming language.informed by hr</p>
+=======
+<h1>nithin techs youtube</h1>
+<p>wellcome to new programming language.NITHIN</p>
+>>>>>>> main-section
 </body>
 <html>
